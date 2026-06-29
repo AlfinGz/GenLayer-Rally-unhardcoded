@@ -2,7 +2,7 @@
 
 ## Campaign: The First Dispute - unhardcoded.com
 Author: @AlfinGz
-Date: May 2026
+Date: juni 2026
 
 ### Summary
 This repo documents my contribution to the GenLayer RALLY campaign. 
